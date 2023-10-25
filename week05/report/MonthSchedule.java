@@ -1,7 +1,7 @@
 package reports5;
 
 import java.util.Scanner;
-
+//4장 7번
 class Day {
    private String work;
    public void set(String work) { this.work = work; }
