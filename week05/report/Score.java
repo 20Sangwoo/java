@@ -1,6 +1,6 @@
 package reports5;
 import java.util.Scanner;
-
+//4장 2번
 class Grade {
    private int math;
    private int science;
