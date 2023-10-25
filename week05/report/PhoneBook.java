@@ -1,7 +1,7 @@
 package reports5;
 
 import java.util.Scanner;
-
+//4장 8번
 class Phone {
    private String name;
    private String tel;
