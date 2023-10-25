@@ -1,5 +1,5 @@
 package reports5;
-
+//4장 9번
 class ArrayUtil {
 	   public static int[] concat(int[] a, int[] b) {
 	      int tmp[] = new int[a.length+b.length];
