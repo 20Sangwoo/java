@@ -1,5 +1,5 @@
 package reports5;
-
+//4장 1번
 class InfoTV {
 	 private String brand;
 	   private int year;
