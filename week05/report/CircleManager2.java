@@ -1,6 +1,6 @@
 package reports5;
 import java.util.Scanner;
-
+//4장 6번
 class Circle2 {
 	   private double x, y;
 	   private int radius;
