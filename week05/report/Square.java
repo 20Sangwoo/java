@@ -1,5 +1,5 @@
 package reports5;
-
+//4장 4번
 class Rectangle {
 	   private int x;
 	   private int y;
