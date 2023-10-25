@@ -1,7 +1,7 @@
 package reports5;
 
 import java.util.Scanner;
-//4장 2번
+//4장 11번
 class Add {
    private int a;
    private int b;
