@@ -5,4 +5,5 @@ public class Sorry {
 		System.out.println("Sorry~~");
 		System.out.println("재밌어서 미안합니다~~");
 	}
-}
+} 
+//1장
