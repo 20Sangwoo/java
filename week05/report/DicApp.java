@@ -1,7 +1,7 @@
 package reports5;
 
 import java.util.Scanner;
-
+//4장 10번
 class Dictionary {
    private static String[] kor = {"사랑", "아기", "돈", "미래", "희망"};
    private static String[] eng = {"love", "baby", "money", "future","hope"};
