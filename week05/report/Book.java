@@ -1,7 +1,7 @@
 package reports5;
 
 import java.util.Scanner;
-//4장 1번
+//4장 12번
 class Concert{
    private String S[];
    private String A[];
